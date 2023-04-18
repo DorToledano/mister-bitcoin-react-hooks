@@ -1,0 +1,14 @@
+.app-header {
+  background-color: #0ce9f5b5;
+  .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+    font-weight: 600;
+    nav {
+      display: flex;
+      gap: 15px;
+    }
+  }
+}

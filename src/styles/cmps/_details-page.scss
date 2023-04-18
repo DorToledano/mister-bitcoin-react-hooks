@@ -1,0 +1,73 @@
+.details-page-container {
+  height: 100%;
+  .details-page {
+    // display: flex;
+    // flex-direction: column;
+    // gap: 15px;
+    // align-items: center;
+    display: grid;
+    grid-template-areas:
+      'c t'
+      'c m';
+      
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    gap: 30px;
+    margin-block: 20px;
+
+    @include for-mobile-layout{
+        grid-template-areas:
+      'c c'
+      't t'
+      'm m';
+    }
+    .contact {
+      grid-area: c;
+      height: 100%;
+      background: rgb(0 0 0 / 81%);
+      color: whitesmoke;
+      height: fit-content;
+      padding: 30px;
+      border-radius: 8px;
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+      img {
+        margin-block-start: 30px;
+      }
+    }
+    img {
+      width: 200px;
+    }
+    .a {
+      cursor: pointer;
+      border: none;
+      background-color: transparent;
+      border-radius: 50%;
+      font-size: 1.3em;
+      color: aqua;
+      &:hover {
+        color: rgb(3, 169, 169);
+      }
+    }
+    button:not(.transfer-fund button){
+      padding: 5px;
+      cursor: pointer;
+      border: none;
+      background-color: transparent;
+      border-radius: 50%;
+      font-size: 1.3em;
+      color: aqua;
+      &:hover {
+        color: rgb(3, 169, 169);
+      }
+    }
+    .actions {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-block-end: auto;
+    }
+  }
+}
