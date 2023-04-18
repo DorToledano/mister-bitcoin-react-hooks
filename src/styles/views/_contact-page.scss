@@ -8,12 +8,19 @@
         border-radius: 4px;
         border: 1px solid rgb(203, 202, 202);
         margin-block-end: 20px;
+        width: 40vw;
+        height: 45px;
     }
   }
   ul{
     overflow-y: scroll;
-    height: 80vh;
+    max-height: 69vh;
     padding: 0;
+    width: 40vw;
+    @include for-mobile-layout{
+      width: 100%;
+
+    }
   }
   .a-container{
     width: 45px;

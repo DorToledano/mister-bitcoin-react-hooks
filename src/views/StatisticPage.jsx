@@ -33,7 +33,6 @@ export function StatisticPage () {
     }
   }
 
-
     if (!marketPrice || !trans) return <div>Loading...</div>
     const mp={
         xdata : marketPrice.map((item) => item.x),
@@ -47,10 +46,11 @@ export function StatisticPage () {
     }
     return (
       <section className='statistic-page'>
+        <h1>Market Price</h1>
         <div>
           <Chart data={mp.data} xdata={mp.xdata} color={mp.color}/>
         </div>
-
+      <h1>Trade Volume</h1>
         <div>
           <Chart data={tr.data} xdata={tr.xdata} color={tr.color}/>
         </div>

@@ -1,0 +1,13 @@
+.statistic-page{
+    color: whitesmoke;
+    font-weight: 600;
+    > div{
+        background-color: rgba(128, 128, 128, 0.165);
+        padding: 10px;
+        border-radius: 25px;
+    }
+    h1{
+        margin-block-end: 20px;
+        text-align: center;
+    }
+}
