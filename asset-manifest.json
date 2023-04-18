@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/mister-bitcoin-react-hooks/static/css/main.bedc851f.css",
+    "main.js": "/mister-bitcoin-react-hooks/static/js/main.57c8a612.js",
+    "static/js/787.887c022c.chunk.js": "/mister-bitcoin-react-hooks/static/js/787.887c022c.chunk.js",
+    "static/media/bitcoin1.png": "/mister-bitcoin-react-hooks/static/media/bitcoin1.a2c330454f10d4e322f4.png",
+    "static/media/bgc .jpg": "/mister-bitcoin-react-hooks/static/media/bgc .1834db55193a1051ab2b.jpg",
+    "static/media/coins.png": "/mister-bitcoin-react-hooks/static/media/coins.328f3fb6305239a98121.png",
+    "static/media/bitcoin.png": "/mister-bitcoin-react-hooks/static/media/bitcoin.e7c3d8ca9b44b3b23566.png",
+    "index.html": "/mister-bitcoin-react-hooks/index.html",
+    "main.bedc851f.css.map": "/mister-bitcoin-react-hooks/static/css/main.bedc851f.css.map",
+    "main.57c8a612.js.map": "/mister-bitcoin-react-hooks/static/js/main.57c8a612.js.map",
+    "787.887c022c.chunk.js.map": "/mister-bitcoin-react-hooks/static/js/787.887c022c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bedc851f.css",
+    "static/js/main.57c8a612.js"
+  ]
+}
