@@ -1,18 +1,26 @@
 .home-page {
+  background-image: url('../../img/bgc.jpg');
+  min-height: 100vh;
+  background-position: center;
+  background-repeat:inherit ;
   padding: 3em;
   display: flex;
   gap: 20px;
   flex-direction: column;
   color: white;
   font-weight: 600;
-  font-size: 30px;
-  filter: drop-shadow(0 0 0.75rem rgb(12 233 245 / 90%));
+  font-size: 50px;
   @include for-mobile-layout{
   padding: 1em;
+  // h3,p,.moves-list{
+  //   filter: drop-shadow(0 0 0.75rem rgb(12 233 245 / 90%));
+  // }
 
   }
   h3{
     font-weight: 800;
+    filter: drop-shadow(0 0 0.75rem rgb(12 233 245 / 90%));
+
   }
   img {
     width: 18px;
@@ -22,6 +30,8 @@
     font-weight: 600;
   }
   p {
+    filter: drop-shadow(0 0 0.75rem rgb(12 233 245 / 90%));
+
     display: flex;
     gap: 10px;
     font-weight: 600;
@@ -36,6 +46,8 @@
     }
   }
   .moves-list {
+    filter: drop-shadow(0 0 0.75rem rgb(12 233 245 / 90%));
+
     font-size: 1rem;
     background-color: rgb(0 0 0 / 85%);
   }

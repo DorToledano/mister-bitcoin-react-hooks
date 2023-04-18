@@ -12,7 +12,7 @@ import { Route, HashRouter as Router, Routes } from 'react-router-dom'
  function App () {
     return (
       <Router>
-        <div className="App">
+        <div className="App" >
           <Header />
           <Routes>
             <Route path="/contact/edit/:id?" element={<ContactEditPage />} />

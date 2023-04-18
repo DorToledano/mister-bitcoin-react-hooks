@@ -1,5 +1,6 @@
 * {
   box-sizing: border-box;
+  
 }
 
 html {
@@ -79,7 +80,8 @@ input {
 
 .App{
   min-height: 100vh;
-  background-image: url('../../img/bgc\ .jpg');
+  background: linear-gradient(to bottom, #042935,#005760,#22b5cf ) ;
+  // background-image: url('../../img/bgc.jpg');
   background-position: center;
   background-repeat:inherit ;
 }

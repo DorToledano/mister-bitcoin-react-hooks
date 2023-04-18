@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Mister-Bitcoin/static/css/main.9ffd1dc8.css",
-    "main.js": "/Mister-Bitcoin/static/js/main.6f054828.js",
-    "static/js/787.887c022c.chunk.js": "/Mister-Bitcoin/static/js/787.887c022c.chunk.js",
-    "static/media/bitcoin1.png": "/Mister-Bitcoin/static/media/bitcoin1.a2c330454f10d4e322f4.png",
-    "static/media/bgc .jpg": "/Mister-Bitcoin/static/media/bgc .1834db55193a1051ab2b.jpg",
-    "static/media/coins.png": "/Mister-Bitcoin/static/media/coins.328f3fb6305239a98121.png",
-    "static/media/bitcoin.png": "/Mister-Bitcoin/static/media/bitcoin.e7c3d8ca9b44b3b23566.png",
-    "index.html": "/Mister-Bitcoin/index.html",
-    "main.9ffd1dc8.css.map": "/Mister-Bitcoin/static/css/main.9ffd1dc8.css.map",
-    "main.6f054828.js.map": "/Mister-Bitcoin/static/js/main.6f054828.js.map",
-    "787.887c022c.chunk.js.map": "/Mister-Bitcoin/static/js/787.887c022c.chunk.js.map"
+    "main.css": "/mister-bitcoin-react-hooks/static/css/main.bedc851f.css",
+    "main.js": "/mister-bitcoin-react-hooks/static/js/main.57c8a612.js",
+    "static/js/787.887c022c.chunk.js": "/mister-bitcoin-react-hooks/static/js/787.887c022c.chunk.js",
+    "static/media/bitcoin1.png": "/mister-bitcoin-react-hooks/static/media/bitcoin1.a2c330454f10d4e322f4.png",
+    "static/media/bgc .jpg": "/mister-bitcoin-react-hooks/static/media/bgc .1834db55193a1051ab2b.jpg",
+    "static/media/coins.png": "/mister-bitcoin-react-hooks/static/media/coins.328f3fb6305239a98121.png",
+    "static/media/bitcoin.png": "/mister-bitcoin-react-hooks/static/media/bitcoin.e7c3d8ca9b44b3b23566.png",
+    "index.html": "/mister-bitcoin-react-hooks/index.html",
+    "main.bedc851f.css.map": "/mister-bitcoin-react-hooks/static/css/main.bedc851f.css.map",
+    "main.57c8a612.js.map": "/mister-bitcoin-react-hooks/static/js/main.57c8a612.js.map",
+    "787.887c022c.chunk.js.map": "/mister-bitcoin-react-hooks/static/js/787.887c022c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9ffd1dc8.css",
-    "static/js/main.6f054828.js"
+    "static/css/main.bedc851f.css",
+    "static/js/main.57c8a612.js"
   ]
 }
